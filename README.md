@@ -16,4 +16,12 @@ My LeetCode solutions automatically synced via LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
