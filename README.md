@@ -26,6 +26,7 @@ My LeetCode solutions automatically synced via LeetHub
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0344-reverse-string](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
