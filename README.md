@@ -7,6 +7,7 @@ My LeetCode solutions automatically synced via LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0048-rotate-image](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -36,4 +37,12 @@ My LeetCode solutions automatically synced via LeetHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
