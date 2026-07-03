@@ -8,6 +8,7 @@ My LeetCode solutions automatically synced via LeetHub
 | ------- | ------- |
 | [0001-two-sum](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0048-rotate-image](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0075-sort-colors](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -23,6 +24,7 @@ My LeetCode solutions automatically synced via LeetHub
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0344-reverse-string](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -36,6 +38,7 @@ My LeetCode solutions automatically synced via LeetHub
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Math
 | Problem Name | Difficulty |
