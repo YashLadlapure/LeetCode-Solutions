@@ -10,6 +10,7 @@ My LeetCode solutions automatically synced via LeetHub
 | [0048-rotate-image](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0075-sort-colors](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashLadlapure/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
@@ -25,6 +26,7 @@ My LeetCode solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashLadlapure/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 ## String
 |  |
@@ -48,4 +50,8 @@ My LeetCode solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashLadlapure/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
