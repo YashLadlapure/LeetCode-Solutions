@@ -8,6 +8,7 @@ My LeetCode solutions automatically synced via LeetHub
 | ------- |
 | [0001-two-sum](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0048-rotate-image](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/YashLadlapure/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashLadlapure/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -38,6 +39,7 @@ My LeetCode solutions automatically synced via LeetHub
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/YashLadlapure/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Sorting
 |  |
@@ -60,6 +62,7 @@ My LeetCode solutions automatically synced via LeetHub
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/YashLadlapure/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/YashLadlapure/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
