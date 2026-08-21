@@ -14,6 +14,7 @@ My LeetCode solutions automatically synced via LeetHub
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashLadlapure/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/YashLadlapure/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/YashLadlapure/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1480-running-sum-of-1d-array](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ My LeetCode solutions automatically synced via LeetHub
 | [0075-sort-colors](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/YashLadlapure/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/YashLadlapure/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/YashLadlapure/LeetCode-Solutions/tree/master/0561-array-partition) |
 ## Math
 |  |
 | ------- |
@@ -80,4 +82,12 @@ My LeetCode solutions automatically synced via LeetHub
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/YashLadlapure/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/YashLadlapure/LeetCode-Solutions/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/YashLadlapure/LeetCode-Solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
